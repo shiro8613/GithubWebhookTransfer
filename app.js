@@ -42,4 +42,4 @@ app.post("/payload", (req, res) => {
     res.sendStatus(200);
 });
 
-app.listen(PORT, () => console.log(`${PORT} ServerStart`))
+app.listen(PORT, () => console.log(`${PORT} ServerStart`));
