@@ -31,7 +31,7 @@ app.post("/payload", (req, res) => {
             delete headers[headKey];
         });
 
-        fetch.post(URL,)
+        fetch.post(URL)
         .set({'content-type': 'application/json'})
         .set(headers)
         .send(body)
