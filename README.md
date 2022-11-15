@@ -1,0 +1,2 @@
+# GithubWebhookTransfer
+GithubからDiscordへのwebhookにプライベートリポジトリが表示されなくなります。（ソース書き換えでいろいろできます。）
